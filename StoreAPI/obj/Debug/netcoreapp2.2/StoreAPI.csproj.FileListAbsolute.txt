@@ -1,0 +1,17 @@
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\StoreAPI.deps.json
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\StoreAPI.runtimeconfig.json
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\StoreAPI.runtimeconfig.dev.json
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\StoreAPI.dll
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\StoreAPI.pdb
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\Core.dll
+D:\Development\Ecommerce\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.2\Core.pdb
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.csprojAssemblyReference.cache
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.csproj.CoreCompileInputs.cache
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.RazorAssemblyInfo.cache
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.RazorAssemblyInfo.cs
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.AssemblyInfoInputs.cache
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.AssemblyInfo.cs
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.RazorTargetAssemblyInfo.cache
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.csproj.CopyComplete
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.dll
+D:\Development\Ecommerce\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.2\StoreAPI.pdb

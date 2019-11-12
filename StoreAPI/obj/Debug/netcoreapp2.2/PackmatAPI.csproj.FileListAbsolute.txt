@@ -1,0 +1,17 @@
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\PackmatAPI.deps.json
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\PackmatAPI.runtimeconfig.json
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\PackmatAPI.runtimeconfig.dev.json
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\PackmatAPI.dll
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\PackmatAPI.pdb
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\Core.dll
+D:\Development\PackMat\PackmatAPI\PackmatAPI\bin\Debug\netcoreapp2.2\Core.pdb
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.csprojAssemblyReference.cache
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.csproj.CoreCompileInputs.cache
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.RazorAssemblyInfo.cache
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.RazorAssemblyInfo.cs
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.AssemblyInfoInputs.cache
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.AssemblyInfo.cs
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.RazorTargetAssemblyInfo.cache
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.csproj.CopyComplete
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.dll
+D:\Development\PackMat\PackmatAPI\PackmatAPI\obj\Debug\netcoreapp2.2\PackmatAPI.pdb

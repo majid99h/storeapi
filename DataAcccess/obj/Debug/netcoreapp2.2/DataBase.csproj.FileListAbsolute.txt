@@ -1,0 +1,9 @@
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataBase.deps.json
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataBase.dll
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataBase.pdb
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.csprojAssemblyReference.cache
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.csproj.CoreCompileInputs.cache
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfoInputs.cache
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfo.cs
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.dll
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataBase.pdb

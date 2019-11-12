@@ -1,0 +1,12 @@
+D:\Development\PackMat\PackmatAPI\InfraStructure\bin\Debug\netcoreapp2.2\WebServices.deps.json
+D:\Development\PackMat\PackmatAPI\InfraStructure\bin\Debug\netcoreapp2.2\WebServices.dll
+D:\Development\PackMat\PackmatAPI\InfraStructure\bin\Debug\netcoreapp2.2\WebServices.pdb
+D:\Development\PackMat\PackmatAPI\InfraStructure\bin\Debug\netcoreapp2.2\DataAcccess.dll
+D:\Development\PackMat\PackmatAPI\InfraStructure\bin\Debug\netcoreapp2.2\DataAcccess.pdb
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.csprojAssemblyReference.cache
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.csproj.CoreCompileInputs.cache
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.AssemblyInfoInputs.cache
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.AssemblyInfo.cs
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.csproj.CopyComplete
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.dll
+D:\Development\PackMat\PackmatAPI\InfraStructure\obj\Debug\netcoreapp2.2\WebServices.pdb

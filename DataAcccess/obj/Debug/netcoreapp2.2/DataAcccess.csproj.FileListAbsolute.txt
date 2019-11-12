@@ -1,0 +1,10 @@
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataAcccess.deps.json
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataAcccess.runtimeconfig.json
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataAcccess.runtimeconfig.dev.json
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataAcccess.dll
+D:\Development\PackMat\PackmatAPI\DataAcccess\bin\Debug\netcoreapp2.2\DataAcccess.pdb
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataAcccess.csproj.CoreCompileInputs.cache
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataAcccess.AssemblyInfoInputs.cache
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataAcccess.AssemblyInfo.cs
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataAcccess.dll
+D:\Development\PackMat\PackmatAPI\DataAcccess\obj\Debug\netcoreapp2.2\DataAcccess.pdb
