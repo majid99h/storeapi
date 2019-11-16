@@ -103,6 +103,7 @@ namespace Core.Persistence.Repositories
                 }
                
                 response.status = true;
+                response.Total = CartCount(cartDetail.CartId);
                 return response;
             }
             catch (Exception ex)
